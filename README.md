@@ -9,7 +9,7 @@ I'm a software developer based in Aracaju, Brazil, where it's hot all year long,
 
 ### What I'm up to
 
-🎓 I'm nearing the end of my graduation, so that's where most of my energy is going. Almost there!
-⏳ Once that's wrapped up, I hope I'll have more time to work on cool stuff that I can put on GitHub.
+- 🎓 I'm nearing the end of my graduation, so that's where most of my energy is going. Almost there!
+- ⏳ Once that's wrapped up, I hope I'll have more time to work on cool stuff that I can put on GitHub.
 
 Feel free to reach me out on [LinkedIn](https://www.linkedin.com/in/allanjuan/) if you want to! 
